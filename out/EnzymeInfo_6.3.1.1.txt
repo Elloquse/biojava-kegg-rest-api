@@ -1,0 +1,10 @@
+- - - Amino acids statistics - - -
+protein id: WP_011091652
+Polar: 72, Hydrophobic: 169
+Aliphatic: 131, Aromatic: 26, Heterocyclic: 31
+
+- - - Enzyme pathways - - -
+Pathway: ec00460  Description: Cyanoamino acid metabolism
+Pathway: ec01110  Description: Biosynthesis of secondary metabolites
+Pathway: ec01100  Description: Metabolic pathways
+Pathway: ec00250  Description: Alanine, aspartate and glutamate metabolism

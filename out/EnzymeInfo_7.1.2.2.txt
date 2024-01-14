@@ -1,0 +1,41 @@
+- - - Amino acids statistics - - -
+protein id: WP_005976558
+Polar: 29, Hydrophobic: 71
+Aliphatic: 60, Aromatic: 6, Heterocyclic: 9
+
+protein id: WP_011095966
+Polar: 98, Hydrophobic: 246
+Aliphatic: 196, Aromatic: 30, Heterocyclic: 28
+
+protein id: WP_011095967
+Polar: 71, Hydrophobic: 146
+Aliphatic: 119, Aromatic: 17, Heterocyclic: 14
+
+protein id: WP_011095968
+Polar: 120, Hydrophobic: 271
+Aliphatic: 231, Aromatic: 32, Heterocyclic: 24
+
+protein id: WP_011095969
+Polar: 36, Hydrophobic: 97
+Aliphatic: 81, Aromatic: 8, Heterocyclic: 4
+
+protein id: WP_010681466
+Polar: 24, Hydrophobic: 82
+Aliphatic: 71, Aromatic: 6, Heterocyclic: 4
+
+protein id: WP_005976545
+Polar: 7, Hydrophobic: 64
+Aliphatic: 50, Aromatic: 6, Heterocyclic: 3
+
+protein id: WP_011095970
+Polar: 48, Hydrophobic: 180
+Aliphatic: 129, Aromatic: 33, Heterocyclic: 30
+
+protein id: WP_011095971
+Polar: 23, Hydrophobic: 91
+Aliphatic: 73, Aromatic: 14, Heterocyclic: 9
+
+- - - Enzyme pathways - - -
+Pathway: ec01100  Description: Metabolic pathways
+Pathway: ec00190  Description: Oxidative phosphorylation
+Pathway: ec00195  Description: Photosynthesis
